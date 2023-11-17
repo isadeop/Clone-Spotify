@@ -1,8 +1,9 @@
-# Clone do Spotify
+# [Clone do Spotify](https://isadeop.github.io/Clone-Spotify/)
 
 #### Sobre o Projeto
 
 Projeto de clone da homepage do Spotify, desenvolvido em HTML e CSS para o programa SharpCoders, com o objetivo de praticar e adquirir conhecimentos.
+Para acessar, basta clicar no título em azul (Clone do Spotify).
 
 #### Tutorial
 
